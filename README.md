@@ -8,7 +8,7 @@ describe complex harmonic motion.
 
 ## Lissajous Curves
 
-![Lissajous-Curves](https://github.com/kadirtastepe/Lissajous-Curves/blob/main/lissajous.GIF)
+![Lissajous-Curves](lissajous.GIF)
 
 # Licence
 Released under licence: the GPL version 3 license.
